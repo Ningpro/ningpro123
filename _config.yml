@@ -6,7 +6,7 @@ email: ningpro@163.com
 description: "前端开发 | 缺个对象"
 keyword: "王宁, @ningpro, 王宁的博客, Ning's Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://admirer.top" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/ningpro123" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
